@@ -37,7 +37,7 @@ Inline markup styles:
 - `code()`
 
 > Blockquote
->>> Nested Blockquote
+>> Nested Blockquote
 
 Syntax highlighting can be used with triple backticks, like so:
 
