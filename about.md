@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+WHO AM I
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a technology professional located in Chicago, IL.  I have been working for Belvedere Trading, LLC, a proprietary options trading firm, for the past 10 years.  During my time with Belvedere I have worked in the following roles:  Trading Application Support, Desktop Support, Network Administrator, Systems Engineer, Infrastructure/Support Lead, Technology Coach directing Support and Infrastructure, Sr. IT Operations Analyst, and Sr. Business Intelligence Analyst.
+ 
+In my personal time, I enjoy adventures with my wife and daughter.  I have always had an interest in home automation as well as other automation solutions through the internet of things, development, and virtualization. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tim@timdime.com](mailto:tim@timdime.com)
