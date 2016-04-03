@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+# title: About
 permalink: /about/
 ---
-
-WHO AM I
 
 ### More Information
 
