@@ -5,7 +5,7 @@ title: Jekyll Markdown Style Guide
 
 This is a demo of all styled elements in Jekyll Now.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/timdime/timdime.github.io/_posts/2016-4-2-Markdown-Style-Guide.md).
+[View the markdown used to create this post](https://raw.githubusercontent.com/timdime/timdime.github.io/master/_posts/2016-4-2-Markdown-Style-Guide.md).
 
 This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
