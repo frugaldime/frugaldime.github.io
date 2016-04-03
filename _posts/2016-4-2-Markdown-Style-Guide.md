@@ -19,7 +19,7 @@ A link to [timdime](http://github.com/timdime/). A big ass literal link <http://
 
 An image, located within /images
 
-![an image alt text]({{ site.baseurl }}/images/timdime.jpg "an image title")
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 * A bulletted list
 - alternative syntax 1
