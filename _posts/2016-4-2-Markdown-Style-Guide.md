@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll Markdown Style Guide
+title: Markdown Style Guide
 ---
 
 This is a demo of all styled elements for reference.
