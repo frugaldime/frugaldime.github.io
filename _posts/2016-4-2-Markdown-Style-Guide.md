@@ -15,7 +15,7 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 
 #### Header 4
 
-A link to [timdime](http://github.com/timdime/). A big ass literal link <http://github.com/timdime/>
+A link to [timdime](http://github.com/timdime/). A literal link <http://github.com/timdime/>
 
 An image, located within /images
 
