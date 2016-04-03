@@ -3,7 +3,7 @@ layout: post
 title: Jekyll Markdown Style Guide
 ---
 
-This is a demo of all styled elements in Jekyll Now.
+This is a demo of all styled elements for reference.
 
 [View the markdown used to create this post](https://raw.githubusercontent.com/timdime/timdime.github.io/master/_posts/2016-4-2-Markdown-Style-Guide.md).
 
@@ -15,7 +15,7 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 
 #### Header 4
 
-A link to [Jekyll Now](http://github.com/timdime/). A big ass literal link <http://github.com/timdime/>
+A link to [timdime](http://github.com/timdime/). A big ass literal link <http://github.com/timdime/>
 
 An image, located within /images
 
