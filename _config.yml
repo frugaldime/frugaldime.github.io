@@ -83,3 +83,4 @@ exclude:
   - Gemfile.lock
   - README.md
   - CNAME
+  - POST_NOTES
