@@ -3,9 +3,9 @@ layout: page
 permalink: /about/
 ---
 
-## About
+## fru·gal
 
-placeholder
+### sparing or economical with regard to money or food.
 
 ## Contact me
 
