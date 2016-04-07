@@ -3,11 +3,11 @@ layout: page
 permalink: /about/
 ---
 
-## About
+### About
 
 noun: frugality
 the quality of being economical with money or food; thriftiness.
 
-## Contact me
+### Contact me
 
 [contact@frugaldime.com](mailto:contact@frugaldime.com)
