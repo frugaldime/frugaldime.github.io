@@ -3,10 +3,10 @@ layout: page
 permalink: /about/
 ---
 
-### About
+## About
 
 placeholder
 
-### Contact me
+## Contact me
 
 [contact@frugaldime.com](mailto:contact@frugaldime.com)
