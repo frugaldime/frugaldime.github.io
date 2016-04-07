@@ -5,6 +5,7 @@ permalink: /about/
 
 ## About
 
+<<<<<<< HEAD
 ### fru·gal·i·ty
 #### fro͞oˈɡalədē/
 noun: frugality
