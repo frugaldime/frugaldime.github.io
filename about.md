@@ -6,6 +6,7 @@ permalink: /about/
 ## fru·gal
 
 ### adjective
+
 ### sparing or economical with regard to money or food.
 
 ## Contact me
