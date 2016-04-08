@@ -5,6 +5,8 @@ permalink: /ideas/
 
 ## My Frugal Moves...
 
+![Show me the Money](/images/list_banner.jpg "Show me the Money Screenshot")
+
 ### Here are some ideas I've adopted.  I hope some these ideas can help you!
 
 * Taditional Cable-less repaced with an HD Antenna & internet TV Services
