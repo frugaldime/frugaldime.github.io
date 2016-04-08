@@ -21,16 +21,16 @@ description:
 
 ##### Retirement Planning
 
-* 401k Contributions
+* 401k contributions
 
 ##### Saving Strategies
 
-* Waterfall income to accounts to avoid Lifestyle inflation
+* Waterfalling income to accounts to avoid lifestyle inflation
 
 ##### Technological Opportunities
 
-* Taditional Cable replaced with an HD Antenna & internet TV Services
-* Voice Over IP (VoIP) with google voice and obitalk device
+* Traditional cable replaced with an HD antenna & internet TV services
+* Voice Over IP (VoIP) with GoogleVoice and OBiTALK telephone adapter
 
 
 
