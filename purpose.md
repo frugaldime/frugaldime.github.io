@@ -18,4 +18,4 @@ The [Posts](/) section will be a detailed write-up of the topics I have outlined
 \* I have not received compensation for any of the posted material.
 
 
-#### If you have any feedback or requests, please [email me](mailto:contact@frugaldime.com).
+#### If you have any feedback or requests [email me](mailto:contact@frugaldime.com).
