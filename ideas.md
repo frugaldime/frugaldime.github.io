@@ -7,14 +7,37 @@ permalink: /ideas/
 
 # My Frugal Moves...
 
-### Here are some ideas I've adopted that I hope you consider:
+### Here are some strategies I've adopted that I hope you consider:
 
-* Taditional Cable-less replaced with an HD Antenna & internet TV Services
-* Voice Over IP (VoIP) with google voice and obitalk device
-* Waterfall income to accounts to avoide Lifestyle inflation
-* Buying what you need when you don't need it
+##### Daily Life
+
 * High Deductible Health Plans and Health Savings Accounts
+* Buying what you need when you don't need it
+
+##### Quality of Life
+
+* Choosing a location to live
+
+##### Retirement Planning
+
 * 401k Contributions
-* Carefully choosing a location to live
+
+##### Saving Strategies
+
+* Waterfall income to accounts to avoid Lifestyle inflation
+
+##### Technological Opportunities
+
+* Taditional Cable replaced with an HD Antenna & internet TV Services
+* Voice Over IP (VoIP) with google voice and obitalk device
+
+
+
+
+
+
+
+
+
 
 
