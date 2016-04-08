@@ -3,9 +3,9 @@ layout: page
 permalink: /ideas/
 ---
 
-# My Frugal Moves...
-
 ![Show me the Money](/images/list_banner.jpg "Show me the Money Screenshot")
+
+# My Frugal Moves...
 
 ### Here are some ideas I've adopted.  I hope some these ideas can help you!
 
