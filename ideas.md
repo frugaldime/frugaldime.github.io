@@ -3,11 +3,11 @@ layout: page
 permalink: /ideas/
 ---
 
-## My Frugal Moves...
+# My Frugal Moves...
 
 ![Show me the Money](/images/list_banner.jpg "Show me the Money Screenshot")
 
-### Here are some ideas I've adopted.  I hope some these ideas can help you!
+## Here are some ideas I've adopted.  I hope some these ideas can help you!
 
 * Taditional Cable-less replaced with an HD Antenna & internet TV Services
 * Voice Over IP (VoIP) with google voice and obitalk device
