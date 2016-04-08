@@ -84,3 +84,4 @@ exclude:
   - README.md
   - CNAME
   - POST_NOTES
+  - commit_generic.sh
