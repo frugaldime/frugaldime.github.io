@@ -7,7 +7,7 @@ permalink: /ideas/
 
 # My Frugal Moves...
 
-### Here are some ideas I've adopted that I hope you consider!
+### Here are some ideas I've adopted that I hope you consider:
 
 * Taditional Cable-less replaced with an HD Antenna & internet TV Services
 * Voice Over IP (VoIP) with google voice and obitalk device
