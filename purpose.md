@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /purpose/
 ---
 
 ## fru·gal
