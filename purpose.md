@@ -5,8 +5,10 @@ permalink: /purpose/
 
 ![Show me the Money](/images/Moneybanner.png "Show me the Money Screenshot")
 
-# Test
+# Purpose
 
-#### Contact me
 
-[contact@frugaldime.com](mailto:contact@frugaldime.com)
+
+
+
+[#### Email me](mailto:contact@frugaldime.com)
