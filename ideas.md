@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /ideas/
+description: 
 ---
 
 ![Show me the Money](/images/list_banner.jpg "Show me the Money Screenshot")
