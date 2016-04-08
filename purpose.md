@@ -3,7 +3,7 @@ layout: page
 permalink: /purpose/
 ---
 
-![Show me the Money](/images/Moneybanner.png "Show me the Money Screenshot")
+![Show me the Money](/images/Moneybanner.jpg "Show me the Money Screenshot")
 
 # Purpose
 
