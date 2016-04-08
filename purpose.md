@@ -11,4 +11,4 @@ permalink: /purpose/
 
 
 
-[#### Email me](mailto:contact@frugaldime.com)
+## [Email me](mailto:contact@frugaldime.com)
