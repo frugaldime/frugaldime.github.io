@@ -15,7 +15,7 @@ Money saved can be applied to your other goals/debts or used to help you get clo
 
 The [Posts](/) section will be a detailed write-up of the topics I have outlined in the [Ideas](/ideas/) section.
 
-* I have not received compensation for any of the posted material.
+\* I have not received compensation for any of the posted material.
 
 
 #### If you have any feedback or requests, please [email me](mailto:contact@frugaldime.com).
