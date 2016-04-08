@@ -11,11 +11,11 @@ Having a strong interest in personal financial optimization and striving towards
 
 The goal is to identify opportunities to be more economical without sacrificing what is important to you.
 
-Money saved can be applied to your other goals/debts or used to help you get closer towards retirement.  I don't plan to write about more common topics that may already have well written artices, but I will link out to them in the [Links](/links/) section.
+Money saved can be applied to your other goals.  I don't plan to write about more common topics that may already have well written artices, but I will link out to them in the [Links](/links/) section.
 
 The [Posts](/) section will be a detailed write-up of the topics I have outlined in the [Ideas](/ideas/) section.
 
-\* I have not received compensation for any of the posted material.
+*\* I have not received compensation for any of the posted material.*
 
 
 #### If you have any feedback or requests [email me](mailto:contact@frugaldime.com).
