@@ -8,7 +8,7 @@ description:
 
 # Purpose
 
-Having a strong interest in personal finance optimization and striving towards financial freedom and early retirement, this website is being organically composed to be a resource for you to consider applying these principles to your own life.
+Having a strong interest in personal finance optimization and striving towards financial freedom and early retirement, this website is being developed to be a resource for you to consider applying these principles to your own life.
 
 **The goal is to identify opportunities to be more economical without sacrificing what is important to you for future financial benefit.**
 
